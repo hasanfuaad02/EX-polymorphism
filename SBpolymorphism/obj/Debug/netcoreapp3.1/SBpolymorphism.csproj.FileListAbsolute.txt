@@ -1,0 +1,12 @@
+C:\Users\Hassan\source\repos\SBpolymorphism\SBpolymorphism\bin\Debug\netcoreapp3.1\SBpolymorphism.exe
+C:\Users\Hassan\source\repos\SBpolymorphism\SBpolymorphism\bin\Debug\netcoreapp3.1\SBpolymorphism.deps.json
+C:\Users\Hassan\source\repos\SBpolymorphism\SBpolymorphism\bin\Debug\netcoreapp3.1\SBpolymorphism.runtimeconfig.json
+C:\Users\Hassan\source\repos\SBpolymorphism\SBpolymorphism\bin\Debug\netcoreapp3.1\SBpolymorphism.runtimeconfig.dev.json
+C:\Users\Hassan\source\repos\SBpolymorphism\SBpolymorphism\bin\Debug\netcoreapp3.1\SBpolymorphism.dll
+C:\Users\Hassan\source\repos\SBpolymorphism\SBpolymorphism\bin\Debug\netcoreapp3.1\SBpolymorphism.pdb
+C:\Users\Hassan\source\repos\SBpolymorphism\SBpolymorphism\obj\Debug\netcoreapp3.1\SBpolymorphism.AssemblyInfoInputs.cache
+C:\Users\Hassan\source\repos\SBpolymorphism\SBpolymorphism\obj\Debug\netcoreapp3.1\SBpolymorphism.AssemblyInfo.cs
+C:\Users\Hassan\source\repos\SBpolymorphism\SBpolymorphism\obj\Debug\netcoreapp3.1\SBpolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\source\repos\SBpolymorphism\SBpolymorphism\obj\Debug\netcoreapp3.1\SBpolymorphism.dll
+C:\Users\Hassan\source\repos\SBpolymorphism\SBpolymorphism\obj\Debug\netcoreapp3.1\SBpolymorphism.pdb
+C:\Users\Hassan\source\repos\SBpolymorphism\SBpolymorphism\obj\Debug\netcoreapp3.1\SBpolymorphism.genruntimeconfig.cache
